@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7815d8fb-b99d-0814-a595-0b7fc740b5f4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "European Imperialism in the 19th and 20th Centuries",
+  "course_description": "From pineapples grown in Hawaii to English-speaking call centers outsourced to India, the legacy of the \"Age of Imperialism\" appears everywhere in our modern world. This class explores the history of European imperialism in its political, economic, and cultural dimensions from the 1840s through the 1960s.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.443",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
